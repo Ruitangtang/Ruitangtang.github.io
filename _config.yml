@@ -23,9 +23,9 @@ repository               : "Ruitangtang/Ruitangtang.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
-  name             : "Your Sidebar Name"
-  pronouns         : # example: "she/her"  
+  avatar           : "Ruitang.JPG"
+  name             : "Ruitang Yang"
+  pronouns         : "she/her"  
   bio              : "Short biography for the left-hand sidebar"
   location         : "Earth"
   employer         : "University I Oslo"

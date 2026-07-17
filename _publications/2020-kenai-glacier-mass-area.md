@@ -16,7 +16,10 @@ This study quantifies glacier area and mass change across more than 4,000 km² o
 
 The results establish a regional baseline for understanding multi-decadal glacier retreat and mass loss in south-central Alaska.
 
+## Links
+- [Read the paper](https://doi.org/10.1017/jog.2020.32)
+- [Access the associated dataset](https://doi.org/10.1594/PANGAEA.965738)
+
 ## Related Outputs
 
-- [Kenai Peninsula project overview](/projects/kenai-glaciers/)
-- [Published dataset](https://doi.org/10.1594/PANGAEA.965738)
+- [Explore the related research project](/projects/kenai-glaciers/)

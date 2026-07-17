@@ -5,32 +5,60 @@ permalink: /publications/
 author_profile: true
 ---
 
-{% if site.author.googlescholar %}
-  <div class="wordwrap">You can also find my articles on <a href="{{site.author.googlescholar}}">my Google Scholar profile</a>.</div>
-{% endif %}
+My research spans glacier modeling, data assimilation, glacier dynamics, and satellite remote sensing. Publications are organized below by research theme and listed in reverse chronological order.
+
+For citation metrics and the complete external record, visit my [Google Scholar profile](https://scholar.google.com/citations?user=P7UUU4kAAAAJ&hl=en).
 
 {% include base_path %}
 
-<!-- New style rendering if publication categories are defined -->
-{% if site.publication_category %}
-  {% for category in site.publication_category  %}
-    {% assign title_shown = false %}
-    {% for post in site.publications reversed %}
-      {% if post.category != category[0] %}
-        {% continue %}
-      {% endif %}
-      {% unless title_shown %}
-        <h2>{{ category[1].title }}</h2><hr />
-        {% assign title_shown = true %}
-      {% endunless %}
-      {% include archive-single.html %}
-    {% endfor %}
-  {% endfor %}
-{% else %}
-  {% for post in site.publications reversed %}
-    {% include archive-single.html %}
-  {% endfor %}
-{% endif %}
+## Glacier Modeling, Frontal Ablation, and Data Assimilation
 
+Research on observation-constrained glacier modeling, Bayesian calibration, frontal ablation, and uncertainty-aware glacier projection.
 
+{% assign modeling_publications = site.publications
+  | where: "category", "glacier-modeling"
+  | sort: "date"
+  | reverse %}
 
+{% for post in modeling_publications %}
+  {% include archive-single.html %}
+{% endfor %}
+
+## Glacier Change, Dynamics, and Remote Sensing
+
+Research using optical imagery, synthetic aperture radar, satellite altimetry, and model-derived data to investigate glacier area, mass, surface velocity, and glacier–runoff interactions.
+
+{% assign observation_publications = site.publications
+  | where: "category", "glacier-observation"
+  | sort: "date"
+  | reverse %}
+
+{% for post in observation_publications %}
+  {% include archive-single.html %}
+{% endfor %}
+
+## Collaborative Cryosphere Research
+
+Collaborative studies advancing glacier-elevation-change assessment, cryospheric data assimilation, field observations, and community-based research methods.
+
+{% assign collaborative_publications = site.publications
+  | where: "category", "collaborative-cryosphere"
+  | sort: "date"
+  | reverse %}
+
+{% for post in collaborative_publications %}
+  {% include archive-single.html %}
+{% endfor %}
+
+## Other and Interdisciplinary Research
+
+Earlier and interdisciplinary publications involving environmental modeling, atmospheric processes, and related Earth-system research.
+
+{% assign other_publications = site.publications
+  | where: "category", "other"
+  | sort: "date"
+  | reverse %}
+
+{% for post in other_publications %}
+  {% include archive-single.html %}
+{% endfor %}

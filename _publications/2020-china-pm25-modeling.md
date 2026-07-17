@@ -1,7 +1,7 @@
 ---
 title: "Investigation of Variations, Causes and Component Distributions of PM2.5 Mass in China Using a Coupled Regional Climate–Chemistry Model"
 collection: publications
-category: other
+category: earth-system-modeling
 permalink: /publication/2020-china-pm25-modeling
 excerpt: "A regional climate–chemistry modeling study of the spatial, seasonal, and vertical distribution of PM2.5 and its components across China."
 date: 2020-02-01

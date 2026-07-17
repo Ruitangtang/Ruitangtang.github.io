@@ -16,7 +16,11 @@ This study examines relationships between glacier surface speed and modeled runo
 
 The analysis links satellite-derived velocity observations with hydrological modeling to investigate glacier–runoff interactions at regional scale.
 
-## Related Research
+## Links
+
 - [Read the paper](https://doi.org/10.1029/2025GL115248)
 - [Access the associated dataset](https://doi.org/10.17632/g3s7m78zk9.1)
+
+## Related Research
+
 - [Kenai Peninsula project overview](/projects/kenai-glaciers/)

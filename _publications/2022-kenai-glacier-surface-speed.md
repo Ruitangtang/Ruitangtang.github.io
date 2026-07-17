@@ -16,7 +16,11 @@ This study derives 92 glacier surface-speed fields from Sentinel-1 observations 
 
 The work provides a consistent regional velocity record and establishes the observational basis for subsequent analysis of glacier speed–runoff relationships.
 
+## Links
+- [Read the paper](https://doi.org/10.1029/2022JF006599)
+- [Access the associated dataset](https://doi.org/10.1594/PANGAEA.971786)
+
 ## Related Outputs
 
-- [Kenai Peninsula project overview](/projects/kenai-glaciers/)
-- [Published velocity dataset](https://doi.org/10.1594/PANGAEA.971786)
+- [Explore the related research project](/projects/kenai-glaciers/)
+

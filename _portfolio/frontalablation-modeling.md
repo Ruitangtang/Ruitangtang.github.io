@@ -38,8 +38,8 @@ Although demonstrated regionally, the framework is built on global glacier-model
 
 ## Key Result
 
-The framework demonstrates how multiple observational constraints can jointly inform surface mass-balance and frontal-ablation parameters while propagating parameter uncertainty into glacier projections through 2100.
-
+The framework demonstrates how multiple observational constraints can jointly inform surface mass-balance and frontal-ablation parameters
+ while propagating parameter uncertainty into glacier projections through 2100.
 
 
 ## Research Outputs 
@@ -50,15 +50,13 @@ The framework demonstrates how multiple observational constraints can jointly in
 
 ## Methods and Technical Capabilities 
 - Process-based glacier modeling
-- Coupled model integration
-- Bayesian calibration and joint parameter estimation
+- Coupled-model architecture and integration
+- Joint Bayesian calibration and parameter estimation
 - Multi-source observational data integration
-- Uncertainty quantification
-- Historical simulation and future projection
-- Regional glacier-model execution
-- Reproducible scientific software and workflow development
+- Parameter and projection uncertainty quantification
+- Historical simulation and scenario-based projection
+- Regional-to-global computational workflow design
+- Reproducible scientific software development
 
 ## Scientific Contribution
-This project provides a scalable framework for integrating frontal ablation into large-scale glacier projections. 
-By combining process-based models, observational constraints, and Bayesian calibration, it supports more physically 
-consistent simulations of marine-terminating glaciers and more transparent assessment of projection uncertainty.
+This project provides a scalable and reproducible framework for representing frontal ablation in large-scale glacier simulations. By coupling globally applicable glacier models with joint Bayesian calibration and multiple observational constraints, the framework improves parameter estimation and enables projection uncertainty to be evaluated explicitly. The Svalbard application demonstrates how the approach can be used to simulate marine-terminating glacier evolution at regional scale while retaining a structure designed for extension to other glacierized regions and larger-scale assessments.

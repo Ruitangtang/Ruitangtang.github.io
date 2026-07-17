@@ -11,14 +11,19 @@ main:
   - title: "Publications"
     url: /publications/
 
+    - title: "Projects"
+    url: /projects/
+
+    - title: "Datasets"
+    url: /datasets/
+
   - title: "Talks"
     url: /talks/    
 
   - title: "Teaching"
     url: /teaching/    
     
-  - title: "Projects"
-    url: /projects/
+
         
   - title: "Blog Posts"
     url: /year-archive/

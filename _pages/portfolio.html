@@ -1,14 +1,19 @@
 ---
 layout: archive
-title: "Portfolio"
-permalink: /portfolio/
+title: "Projects"
+permalink: /projects/
 author_profile: true
 ---
 
+<p>
+  Selected research projects in glacier observation, modeling, data
+  assimilation, remote sensing, and uncertainty quantification.
+</p>
+
 {% include base_path %}
 
+{% assign projects = site.portfolio | sort: "title" %}
 
-{% for post in site.portfolio %}
+{% for post in projects %}
   {% include archive-single.html %}
 {% endfor %}
-

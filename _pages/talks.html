@@ -5,12 +5,38 @@ permalink: /presentations/
 author_profile: true
 ---
 
+<p>
+Selected oral and poster presentations delivered at scientific conferences and research meetings.
+</p>
+
 {% if site.talkmap_link == true %}
 
-<p style="text-decoration:underline;"><a href="/talkmap.html">See a map of all the places I've given a talk!</a></p>
+<p style="text-decoration: underline;">
+  <a href="/talkmap.html">View a map of conference presentation locations</a>
+</p>
 
 {% endif %}
 
-{% for post in site.talks reversed %}
+{% include base_path %}
+
+<h2>Oral Presentations</h2>
+
+{% assign oral_presentations = site.talks
+  | where: "presentation_type", "oral"
+  | sort: "date"
+  | reverse %}
+
+{% for post in oral_presentations %}
+  {% include archive-single-talk.html %}
+{% endfor %}
+
+<h2>Poster Presentations</h2>
+
+{% assign poster_presentations = site.talks
+  | where: "presentation_type", "poster"
+  | sort: "date"
+  | reverse %}
+
+{% for post in poster_presentations %}
   {% include archive-single-talk.html %}
 {% endfor %}

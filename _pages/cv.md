@@ -12,28 +12,21 @@ redirect_from:
 
 ### Full Academic CV
 
-[View or download the full academic CV (PDF)](/files/Ruitang_Yang_Academic_CV_Full.pdf){: .btn .btn--primary }
-
-**Last updated:** July 2026
+[View or download the full academic CV (PDF)](/files/Ruitang_Yang_Academic_CV_Full.pdf){: .btn .btn--primary }, **Last updated:** July 2026
 
 ### Short Academic CV
 
-[View or download the short academic CV (PDF)](/files/Ruitang_Yang_Academic_CV_Short.pdf){: .btn }
-
-**Last updated:** July 2026
+[View or download the short academic CV (PDF)](/files/Ruitang_Yang_Academic_CV_Short.pdf){: .btn }, **Last updated:** July 2026
 
 ### Industry Résumé
 
-[View or download the industry résumé (PDF)](/files/Ruitang_Yang_Industry_Resume.pdf){: .btn }
-
-**Last updated:** July 2026
+[View or download the industry résumé (PDF)](/files/Ruitang_Yang_Industry_Resume.pdf){: .btn }, **Last updated:** July 2026
 
 ## Current Appointment
 
 ### Researcher
 
-**University of Oslo** · Oslo, Norway  
-**2022–Present**
+**University of Oslo** · Oslo, Norway, **2022–Present**
 
 Research on glacier change using numerical modeling, data assimilation, remote sensing, and uncertainty quantification.
 

@@ -1,64 +1,59 @@
 ---
 layout: archive
-title: "CV"
+title: "CV & Résumé"
 permalink: /cv/
 author_profile: true
 redirect_from:
+  - /resume/
   - /resume
 ---
 
-{% include base_path %}
+## Documents
 
-Education
-======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+### Full Academic CV
 
-Work experience
-======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+[View or download the full academic CV (PDF)](/files/Ruitang_Yang_Academic_CV_Full.pdf){: .btn .btn--primary }
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+**Last updated:** July 2026
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+### Short Academic CV
 
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+[View or download the short academic CV (PDF)](/files/Ruitang_Yang_Academic_CV_Short.pdf){: .btn }
+
+**Last updated:** July 2026
+
+### Industry Résumé
+
+[View or download the industry résumé (PDF)](/files/Ruitang_Yang_Industry_Resume.pdf){: .btn }
+
+**Last updated:** July 2026
+
+## Current Appointment
+
+### Researcher
+
+**University of Oslo** · Oslo, Norway  
+**2022–Present**
+
+Research on glacier change using numerical modeling, data assimilation, remote sensing, and uncertainty quantification.
+
+## Education
+
+### PhD in Physical Geography
+
+**University of Chinese Academy of Sciences** · China · **2021**
+
+- Visiting PhD researcher at the **University of Alaska Fairbanks** · USA, for 18 months
+- Visiting PhD researcher at the **University of Oslo** · Norway, for one year
+
+### Master of Science in Mathematics Education
+
+**Shaanxi Normal University** · China · **2015**
+
+### Bachelor of Science in Mathematics and Applied Mathematics
+
+**Shaanxi Normal University** · China · **2011**
+
+## Professional Service
+
+[View professional service and outreach](/service/)

@@ -26,7 +26,7 @@ redirect_from:
 
 ### Researcher
 
-**University of Oslo** · Oslo, Norway, **2022–Present**
+- **University of Oslo** · Oslo, Norway, **2022–Present**
 
 Research on glacier change using numerical modeling, data assimilation, remote sensing, and uncertainty quantification.
 
@@ -34,18 +34,18 @@ Research on glacier change using numerical modeling, data assimilation, remote s
 
 ### PhD in Physical Geography
 
-**University of Chinese Academy of Sciences** · China · **2021**
+- **University of Chinese Academy of Sciences** · China · **2021**
 
 - Visiting PhD researcher at the **University of Alaska Fairbanks** · USA, for 18 months
 - Visiting PhD researcher at the **University of Oslo** · Norway, for one year
 
 ### Master of Science in Mathematics Education
 
-**Shaanxi Normal University** · China · **2015**
+- **Shaanxi Normal University** · China · **2015**
 
 ### Bachelor of Science in Mathematics and Applied Mathematics
 
-**Shaanxi Normal University** · China · **2011**
+- **Shaanxi Normal University** · China · **2011**
 
 ## Professional Service
 

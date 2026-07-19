@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a **cryosphere scientist at the University of Oslo**, specializing in glacier modeling, data assimilation, and satellite remote sensing. I integrate process-based models, Earth-observation data, and Bayesian inference to quantify glacier change and improve projections of future glacier evolution.
+I am a **glaciologist**, specializing in glacier modeling, data assimilation, and satellite remote sensing. I integrate process-based models, Earth-observation data, and Bayesian inference to quantify glacier change and improve projections of future glacier evolution.
 
 I hold a PhD from the **University of Chinese Academy of Sciences**. My doctoral training included 18 months as a visiting PhD researcher at the **University of Alaska Fairbanks** and one year at the **University of Oslo**, where I have worked as a researcher since 2022.
 

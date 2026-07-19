@@ -12,15 +12,15 @@ redirect_from:
 
 ### Full Academic CV
 
-[View or download the full academic CV (PDF)](/files/Ruitang_Yang_Academic_CV_Full.pdf){: .btn .btn--cv }, **Last updated:** July 2026
+[View or download the full academic CV (PDF)](/files/Ruitang_Yang_Academic_CV_Full.pdf){: .btn .btn--cv:focus}, **Last updated:** July 2026
 
 ### Short Academic CV
 
-[View or download the short academic CV (PDF)](/files/Ruitang_Yang_Academic_CV_Short.pdf){: .btn .btn--cv }, **Last updated:** July 2026
+[View or download the short academic CV (PDF)](/files/Ruitang_Yang_Academic_CV_Short.pdf){: .btn .btn--cv:focus }, **Last updated:** July 2026
 
 ### Industry Résumé
 
-[View or download the industry résumé (PDF)](/files/Ruitang_Yang_Industry_Resume.pdf){: .btn .btn--cv }, **Last updated:** July 2026
+[View or download the industry résumé (PDF)](/files/Ruitang_Yang_Industry_Resume.pdf){: .btn .btn--cv:focus }, **Last updated:** July 2026
 
 ## Current Appointment
 

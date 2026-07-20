@@ -12,28 +12,24 @@ redirect_from:
 
 ### Academic CV — Full
 
-[View the full academic CV (PDF)](/files/Ruitang_Yang_Academic_CV_Full.pdf){: .btn .btn--cv }
-
-*Last updated: July 2026*
+[Open full academic CV](/files/Ruitang_Yang_Academic_CV_Full.pdf){: .btn .btn--cv target="_blank" rel="noopener" }
+<span class="cv-updated">Updated July 2026</span>
 
 ### Academic CV — Short
 
-[View the short academic CV (PDF)](/files/Ruitang_Yang_Academic_CV_Short.pdf){: .btn .btn--cv }
-
-*Last updated: July 2026*
+[Open short academic CV](/files/Ruitang_Yang_Academic_CV_Short.pdf){: .btn .btn--cv target="_blank" rel="noopener" }
+<span class="cv-updated">Updated July 2026</span>
 
 ### Industry Résumé
 
-[View the industry résumé (PDF)](/files/Ruitang_Yang_Industry_Resume.pdf){: .btn .btn--cv }
-
-*Last updated: July 2026*
+[Open industry résumé](/files/Ruitang_Yang_Industry_Resume.pdf){: .btn .btn--cv target="_blank" rel="noopener" }
+<span class="cv-updated">Updated July 2026</span>
 
 ## Current Appointment
 
 ### Researcher
 
-**University of Oslo** · Oslo, Norway  
-**2022–Present**
+University of Oslo · Oslo, Norway · 2022–Present
 
 Research on glacier change using numerical modeling, data assimilation, satellite remote sensing, and uncertainty quantification.
 
@@ -41,21 +37,18 @@ Research on glacier change using numerical modeling, data assimilation, satellit
 
 ### PhD in Physical Geography
 
-**University of Chinese Academy of Sciences** · China  
-**2021**
+University of Chinese Academy of Sciences · China · 2021
 
-- Visiting PhD researcher at the **University of Alaska Fairbanks**, USA, for 18 months
-- Visiting PhD researcher at the **University of Oslo**, Norway, for one year
+- Visiting PhD researcher, University of Alaska Fairbanks, USA · 18 months
+- Visiting PhD researcher, University of Oslo, Norway · one year
 
 ### Master of Science in Mathematics Education
 
-**Shaanxi Normal University** · China  
-**2015**
+Shaanxi Normal University · China · 2015
 
 ### Bachelor of Science in Mathematics and Applied Mathematics
 
-**Shaanxi Normal University** · China  
-**2011**
+Shaanxi Normal University · China · 2011
 
 ## Professional Service
 

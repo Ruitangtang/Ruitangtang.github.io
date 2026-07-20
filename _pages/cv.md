@@ -8,30 +8,32 @@ redirect_from:
   - /resume
 ---
 
+Professional documents tailored for industry, research, and academic opportunities.
+
 ## Documents
-
-### Academic CV — Full
-
-[Open full academic CV](/files/Ruitang_Yang_Academic_CV_Full.pdf){: .btn .btn--cv target="_blank" rel="noopener" }
-<span class="cv-updated">Updated July 2026</span>
-
-### Academic CV — Short
-
-[Open short academic CV](/files/Ruitang_Yang_Academic_CV_Short.pdf){: .btn .btn--cv target="_blank" rel="noopener" }
-<span class="cv-updated">Updated July 2026</span>
 
 ### Industry Résumé
 
 [Open industry résumé](/files/Ruitang_Yang_Industry_Resume.pdf){: .btn .btn--cv target="_blank" rel="noopener" }
 <span class="cv-updated">Updated July 2026</span>
 
-## Current Appointment
+### Short Academic CV
+
+[Open short academic CV](/files/Ruitang_Yang_Academic_CV_Short.pdf){: .btn .btn--cv target="_blank" rel="noopener" }
+<span class="cv-updated">Updated July 2026</span>
+
+### Full Academic CV
+
+[Open full academic CV](/files/Ruitang_Yang_Academic_CV_Full.pdf){: .btn .btn--cv target="_blank" rel="noopener" }
+<span class="cv-updated">Updated July 2026</span>
+
+## Current Role
 
 ### Researcher
 
 University of Oslo · Oslo, Norway · 2022–Present
 
-Research on glacier change using numerical modeling, data assimilation, satellite remote sensing, and uncertainty quantification.
+Developing data- and model-driven methods for glacier-change analysis and projection, with expertise in numerical modeling, data assimilation, satellite remote sensing, Bayesian inference, and uncertainty quantification.
 
 ## Education
 
@@ -42,11 +44,11 @@ University of Chinese Academy of Sciences · China · 2021
 - Visiting PhD researcher, University of Alaska Fairbanks, USA · 18 months
 - Visiting PhD researcher, University of Oslo, Norway · one year
 
-### Master of Science in Mathematics Education
+### MSc in Mathematics Education
 
 Shaanxi Normal University · China · 2015
 
-### Bachelor of Science in Mathematics and Applied Mathematics
+### BSc in Mathematics and Applied Mathematics
 
 Shaanxi Normal University · China · 2011
 

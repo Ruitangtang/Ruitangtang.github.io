@@ -15,17 +15,14 @@ Professional documents tailored for industry, research, and academic opportuniti
 ### Industry Résumé
 
 [Open industry résumé](/files/Ruitang_Yang_Industry_Resume.pdf){: .btn .btn--cv target="_blank" rel="noopener" }
-<span class="cv-updated">Updated July 2026</span>
 
 ### Short Academic CV
 
 [Open short academic CV](/files/Ruitang_Yang_Academic_CV_Short.pdf){: .btn .btn--cv target="_blank" rel="noopener" }
-<span class="cv-updated">Updated July 2026</span>
 
 ### Full Academic CV
 
-[Open full academic CV](/files/Ruitang_Yang_Academic_CV_Full.pdf){: .btn .btn--cv target="_blank" rel="noopener" }
-<span class="cv-updated">Updated July 2026</span>
+A full academic CV is available upon request.
 
 ## Current Role
 

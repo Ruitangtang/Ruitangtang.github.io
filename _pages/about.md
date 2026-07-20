@@ -7,41 +7,42 @@ redirect_from:
   - /about.html
 ---
 
-I am a **glaciologist**, specializing in glacier modeling, data assimilation, and satellite remote sensing. I integrate process-based models, Earth-observation data, and Bayesian inference to quantify glacier change and improve projections of future glacier evolution.
+I am a **glaciologist at the University of Oslo**, specializing in glacier modeling, data assimilation, and remote sensing. I integrate process-based models, Earth-observation data, and Bayesian inference to quantify glacier change and improve projections of future glacier evolution.
 
-I hold a PhD from the **University of Chinese Academy of Sciences**. My doctoral training included 18 months as a visiting PhD researcher at the **University of Alaska Fairbanks** and one year at the **University of Oslo**, where I have worked as a researcher since 2022.
+I earned my PhD from the **University of Chinese Academy of Sciences**. My doctoral training included 18 months as a visiting PhD researcher at the **University of Alaska Fairbanks** and one year at the **University of Oslo**, where I have worked as a researcher since 2022.
 
-My research on the **Kenai Peninsula, Alaska**, investigates multi-decadal changes in glacier area, mass, surface velocity, and glacier–runoff relationships. This work has produced **peer-reviewed publications and published regional datasets**.
+My research on the **Kenai Peninsula, Alaska**, examines multi-decadal changes in glacier area, mass, surface velocity, and glacier–runoff relationships. This work has resulted in **three peer-reviewed publications and three published regional datasets**.
 
-I also led the development of a coupled modeling and data-assimilation framework integrating **OGGM**, **PyGEM**, and **SERMeQ**. Applied to **71 marine-terminating glaciers in Svalbard**, the framework combines multiple observational constraints with Bayesian calibration to estimate uncertain parameters and quantify projection uncertainty through 2100.
+I also led the development of a coupled glacier-modeling and data-assimilation framework integrating **OGGM**, **PyGEM**, and **SERMeQ**. Demonstrated for **71 marine-terminating glaciers in Svalbard**, the framework combines multiple observational constraints with joint Bayesian calibration to estimate uncertain parameters and propagate uncertainty into projections through 2100.
 
-Across these projects, I develop reproducible and scalable workflows for geospatial data integration, model calibration, uncertainty analysis, and regional-to-global glacier simulation.
+Across these projects, I develop reproducible and scalable workflows for geospatial data integration, model calibration, uncertainty quantification, and regional-to-global glacier simulation.
 
 ## Featured Research
 
 ### Glacier Change and Dynamics on the Kenai Peninsula, Alaska
 
-A sustained Earth-observation program investigating glacier area, mass, surface velocity, and glacier–runoff relationships.
+A multi-decadal research program combining satellite observations, climate data, runoff simulations, and glacier-model outputs to investigate changes in glacier area, mass, surface velocity, and glacier–runoff relationships.
 
-**Outputs:** Peer-reviewed publications and published datasets.  
 [Explore the project →](/projects/kenai-glaciers/)
 
-### Modeling Marine-Terminating Glaciers in the global glacier models
+### Observation-Constrained Modeling of Marine-Terminating Glaciers
 
-An observation-constrained framework for glacier evolution, climatic mass balance, ice dynamics, frontal ablation, and Bayesian calibration.
-[Explore the project, publications, software, and datasets →](/projects/frontalablation-modeling/)
+A coupled **OGGM–PyGEM–SERMeQ** framework linking climatic mass balance, glacier geometry evolution, ice dynamics, and frontal ablation with joint Bayesian calibration and uncertainty quantification.
 
+The framework has been demonstrated for 71 marine-terminating glaciers in Svalbard and is designed for extension to other glacierized regions and larger-scale assessments.
+
+[Explore the project →](/projects/frontalablation-modeling/)
 
 ## Research Outputs
 
 [Publications](/publications/) ·
 [Datasets](/datasets/) ·
 [Software](/software/) ·
-[Projects](/projects/) ·
+[Presentations](/presentations/)
 
 ## Research Interests
 
-- **Glacier Modeling and Projection**
-- **Frontal Ablation and Tidewater Glaciers**
-- **Data Assimilation and Uncertainty Quantification**
-- **Satellite Remote Sensing and Open Science**
+- **Glacier modeling and projection**
+- **Frontal ablation and marine-terminating glaciers**
+- **Bayesian calibration, data assimilation, and uncertainty quantification**
+- **Satellite remote sensing and reproducible open science**

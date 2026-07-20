@@ -54,3 +54,20 @@
   color: #ffffff !important;
   text-decoration: none !important;
 }
+
+.cv-updated {
+  display: inline-block;
+  margin-left: 0.65rem;
+  color: #6c757d;
+  font-size: 0.85em;
+  font-style: normal;
+  white-space: nowrap;
+}
+
+@media (max-width: 600px) {
+  .cv-updated {
+    display: block;
+    margin-top: 0.4rem;
+    margin-left: 0;
+  }
+}

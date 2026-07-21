@@ -14,11 +14,11 @@ Professional documents tailored for industry, research, and academic opportuniti
 
 ### Industry Résumé
 
-[Open industry résumé](/files/Ruitang_Yang_Industry_Resume.pdf){: .btn .btn--cv target="_blank" rel="noopener" }
+[Open industry résumé](/files/Ruitang_Yang_Short_Academic_CV.pdf){: .btn .btn--cv target="_blank" rel="noopener" }
 
 ### Short Academic CV
 
-[Open short academic CV](/files/Ruitang_Yang_Academic_CV_Short.pdf){: .btn .btn--cv target="_blank" rel="noopener" }
+[Open short academic CV](/files/Ruitang_Yang_Short_Academic_CV.pdf){: .btn .btn--cv target="_blank" rel="noopener" }
 
 ### Full Academic CV
 

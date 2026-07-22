@@ -1,12 +1,12 @@
 ---
 permalink: /
-title: "About Me"
+title: "Ruitang Yang"
 author_profile: true
 redirect_from:
   - /about/
   - /about.html
 ---
-
+## Glaciologist and Researcher at the University of Oslo
 I am a **glaciologist and researcher at the University of Oslo**, specializing in glacier modeling, data assimilation, and remote sensing. I integrate process-based models, Earth-observation data, and Bayesian inference to quantify glacier change and improve projections of future glacier evolution.
 
 I earned my PhD from the **University of Chinese Academy of Sciences**. My doctoral training included 18 months as a visiting PhD researcher at the **University of Alaska Fairbanks** and one year at the **University of Oslo**, where I have worked as a researcher since 2022.

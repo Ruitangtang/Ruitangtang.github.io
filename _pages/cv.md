@@ -36,7 +36,7 @@ Developing data- and model-driven methods for glacier-change analysis and projec
 
 ### PhD in Physical Geography
 
-University of Chinese Academy of Sciences · China · 2021
+University of Chinese Academy of Sciences · China · 2022
 
 - Visiting PhD researcher, University of Alaska Fairbanks, USA · 18 months
 - Visiting PhD researcher, University of Oslo, Norway · one year

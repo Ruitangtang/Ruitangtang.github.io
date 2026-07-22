@@ -10,9 +10,9 @@
 locale                   : "en-US"
 site_theme               : "default" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
 title                    : "Ruitang Yang / PhD"
-title_separator          : "-"
+title_separator          : "|"
 name                     : &name "Ruitang Yang"
-description              : &description "Researcher in Glacier Modeling | Data Assimilation | Remote Sensing"   # Update this with a general description of your site, this is the default if not overridden by a page
+description              : &description "Ruitang Yang is a glaciologist and researcher at the University of Oslo specialising in glacier remote sensing, data assimilation and coupled numerical modelling"   # Update this with a general description of your site, this is the default if not overridden by a page
 url                      : "https://Ruitangtang.github.io" # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
                                                            # or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -26,9 +26,9 @@ author:
   avatar           : "Ruitang.JPG"
   name             : "Ruitang Yang"
   pronouns         : "she/her"  
-  bio              : "Glaciologist in glacier modeling, data assimilation, and remote sensing"
-  location         : "Earth"
-  employer         : "University I Oslo"
+  bio              : "Glaciologist and researcher at the University of Oslo"
+  location         : "Oslo, Norway"
+  employer         : "University of Oslo"
   uri              : "https://Ruitangtang.github.io" # URL
   email            : "tangruiyang123@gmail.com" 
 

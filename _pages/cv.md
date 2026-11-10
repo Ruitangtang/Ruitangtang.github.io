@@ -14,7 +14,7 @@ Professional documents tailored for industry, research, and academic opportuniti
 
 ### Industry Résumé
 
-[Open industry résumé](/files/Ruitang_Yang_General_Scientific_Industry_Resume.pdf){: .btn .btn--cv target="_blank" rel="noopener" }
+[Open industry résumé](/files/Ruitang_Yang_General_Industry_CV_Nov.pdf){: .btn .btn--cv target="_blank" rel="noopener" }
 
 ### Short Academic CV
 
